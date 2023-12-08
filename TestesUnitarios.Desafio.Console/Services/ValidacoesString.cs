@@ -19,5 +19,6 @@ namespace TestesUnitarios.Desafio.Console.Services
             var termina = texto.EndsWith(textoProcurado);
             return termina;
         }
+
     }
 }
